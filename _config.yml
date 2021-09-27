@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-plugins: jekyll-github-metadata
+plugins: 
+- jekyll-github-metadata
