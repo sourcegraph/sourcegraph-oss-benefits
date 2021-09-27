@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 plugins: 
 - jekyll-github-metadata
+site.title: 'Sourcegraph & OSS'
+site.description: 'The benefits of Sourcegraph in OSS'
