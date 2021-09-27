@@ -1,7 +1,4 @@
-## Benefits of Sourcegraph and OSS
-
-
-### Easier Workflow For Maintainers
+# Easier Workflow For Maintainers
 
 - **To sunset or not to sunset?** 
   - When making decisions around sunsetting features, Sourcegraph’s cross-repo search allows visibility on the usage of the feature. OSS maintainers can then make an informed decision on the impact of the deprecation.
