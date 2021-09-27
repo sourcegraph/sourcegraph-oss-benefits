@@ -3,4 +3,3 @@ plugins:
 - jekyll-github-metadata
 title: 'Sourcegraph & OSS'
 description: 'The benefits of Sourcegraph in OSS'
-
