@@ -8,7 +8,7 @@
 - **Code Intelligence on pull requests** 
   - Common scenario: You get a pull request from an unknown person. With Sourcegraph, you don’t need to check out their code, can give high quality reviews faster and respond quicker, which in turn helps attract more contributors.
 - **Extra code care**
-  - Use Saved Searches to get notified about specific code changes that might need extra care and attention.
+  - Use [Saved Searches & Code Monitoring](https://docs.sourcegraph.com/code_search/how-to/saved_searches) to get notified about specific code changes that might need extra care and attention.
 - **Who uses it?**
   - Find out who uses your project with Sourcegraph’s universal code search.
 
@@ -17,7 +17,7 @@
 - **Speedy Understanding** 
   - Use Sourcegraph to get up to speed with unknown code as you can read and understand code much faster with go to definition/find all references, get a better overview of the interdependence of code (find all references) and find whatever you need independently.
 - **Informed decisions** 
-  - Use Sourcegraph to justify propositions on feature requests or changes. Here is an example of a Go lang contributor opting to add an experimental value on an interface vs refactoring. He shares a Sourcegraph search revealing that there is a significant number of repositories depending on the current layout.
+  - Use Sourcegraph to justify propositions on feature requests or changes. Here is an [example](https://github.com/golang/go/issues/45494) of a Go lang contributor opting to add an experimental value on an interface vs refactoring. He shares a Sourcegraph search revealing that there is a significant number of repositories depending on the current layout.
 - **Quality contributions**
   - Sourcegraph’s extensions like CodeCov visualize the test coverage of code contributions.
 
