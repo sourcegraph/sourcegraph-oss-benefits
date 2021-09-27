@@ -9,7 +9,7 @@
 - **Who uses it?**
   - Find out who uses your project with Sourcegraph’s universal code search.
 
-### Contribute Faster
+# Contribute Faster
 
 - **Speedy Understanding** 
   - Use Sourcegraph to get up to speed with unknown code as you can read and understand code much faster with go to definition/find all references, get a better overview of the interdependence of code (find all references) and find whatever you need independently.
@@ -19,7 +19,7 @@
   - Sourcegraph’s extensions like CodeCov visualize the test coverage of code contributions.
 
 
-### Safer OSS Adaptations
+# Safer OSS Adaptations
 
 - **Urgent changes made easy** 
   - OSS libraries can have security vulnerabilities and need to be replaced ASAP. Sourcegraph makes it easier to find vulnerable code cross-repository and across all code hosts. You can then easily replace the affected library with [batch changes](https://about.sourcegraph.com/batch-changes/).
@@ -29,7 +29,7 @@
   - When wanting to use a new library or component, find other projects that use it and learn from their example.
   
  
-### What's coming up next?
+# What's coming up next?
 
 - [API Docs](https://about.sourcegraph.com/blog/api-documentation-for-all-your-code/) - Understand and see use cases of APIs. 
 - [Notebooks](https://sourcegraph.com/github.com/novoselrok/sourcegraph-notebooks/-/blob/test-notebook.snb.md) - Search docs/markdown easier, onboard quicker and enhance documenting (interactive and dynamic).
