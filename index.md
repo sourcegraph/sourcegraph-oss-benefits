@@ -1,4 +1,6 @@
-Sourcegraph & OSS
++---
++title: "Sourcegraph & OSS"
++---
 
 # Easier Workflow For Maintainers
 
