@@ -1,5 +1,5 @@
-
 # Sourcegraph & OSS
+>Try out [Sourcegraph](https://sourcegraph.com/search) and join our [community](https://srcgr.ph/join-community-space)!
 
 ## Easier Workflow For Maintainers
 
